@@ -144,9 +144,10 @@ body {
   transform: scale(1.3);
 }
 .container .section .connectées {
-  background-image: url(../../public/img/barbara.jpeg);
+  background-image: url(../../public/img/bar.jpg);
   height: 100vh;
   background-size: cover;
+  background-position: center;
   background-repeat: no-repeat;
   background-attachment: fixed;
   border: 5px solid red;
